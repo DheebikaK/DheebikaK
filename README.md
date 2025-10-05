@@ -26,7 +26,9 @@
   <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
- ## Languages, Tools & AI Stack
+ ---
+
+## Languages, Tools & AI Stack
 <p align="center">
 
   <!-- Core AI -->
