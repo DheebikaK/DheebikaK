@@ -22,4 +22,6 @@
 - Cost-aware **AWS architectures** for AI and analytics workloads.
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/dheebika-krishnan-102162a1/)
+<a href="https://www.linkedin.com/in/dheebika-krishnan/" target="_blank">
+  <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
