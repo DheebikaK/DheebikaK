@@ -27,8 +27,6 @@
 </a>
 <br clear="left"/>
 
----
-
 ## Languages, Tools & AI Stack
 <p align="center">
 
@@ -58,10 +56,3 @@
 
 </p>
 
----
-
-### 🧠 Current Focus
-- Building **Agentic AI systems** integrating reasoning, memory, and planning  
-- Developing **RAG pipelines** for enterprise search and knowledge retrieval  
-- Experimenting with **LLMs** (OpenAI, Gemini, Claude, Llama 3) for automation  
-- Designing **AWS Cloud architectures** optimized for AI scalability  
