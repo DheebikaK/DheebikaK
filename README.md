@@ -1,4 +1,4 @@
-# AI & Cloud Solutions | Agentic AI • Generative AI • AWS Cloud
+# Technical Project Manager - AI & Cloud Solutions | Agentic AI • Generative AI • AWS Cloud
 
 ## About Me
 - Results-driven **AI & Cloud Solutions Analyst** with **9+ years** of experience designing and implementing intelligent, data-driven solutions across **Agentic AI, Generative AI, AWS Cloud, and SaaS** ecosystems.
